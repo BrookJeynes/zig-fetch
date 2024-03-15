@@ -4,3 +4,5 @@ Simple fetch requests with Zig
 A simple program that can handle GET and POST requests.
 
 You can find the related Youtube video here: https://youtu.be/xSyYl186rLw
+
+Built for Version-0.12.0-dev.3318+6724a524d
